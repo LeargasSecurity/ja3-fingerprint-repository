@@ -4,4 +4,10 @@
 </h1>
 
 # JA3 Fingerprint Repository
+
+JA3 is a method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence.
+
+Credit given to the Salesforce team and John Althouse.
+
+Last Updated:
 Thu Nov  3 18:13:16 UTC 2022
