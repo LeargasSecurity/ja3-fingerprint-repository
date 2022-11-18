@@ -10,4 +10,4 @@ JA3 is a method for creating SSL/TLS client fingerprints that should be easy to 
 Credit given to the Salesforce team and John Althouse.
 
 Last Updated:
-Fri Nov 18 16:34:54 UTC 2022
+Fri Nov 18 17:11:32 UTC 2022
